@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch JavaDemo",
+            "request": "launch",
+            "mainClass": "JavaDemo",
+            "projectName": "dockerlab-repo-sample_7b36374f"
+        },
+        {
+            "runtimeArgs": [
+                "urls.txt"
+            ]
+        }
+    ]
+}
